@@ -4,8 +4,8 @@
 
 "zwrotka-2"
 
-"refren-2"
+"refren-1"
 
 "zwrotka-3"
 
-"refren-3"
+"refren-1"
