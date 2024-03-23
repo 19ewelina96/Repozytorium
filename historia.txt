@@ -1,0 +1,86 @@
+commit f56d16579da2eced8818e1f5d45e813505fdb907
+Author: root <e.k@.wp>
+Date:   Tue Mar 19 21:38:07 2024 +0100
+
+    Dodalam pierwsza zwrotke i pierwszy refren
+
+diff --git a/zwrotka-1 b/zwrotka-1
+new file mode 100644
+index 0000000..b400380
+--- /dev/null
++++ b/zwrotka-1
+@@ -0,0 +1,4 @@
++Say you love me to my face
++I need it more than your embrace
++Just say you want me, that's all it takes
++Heart's getting torn from your mistakes
+
+zwrotka1
+commit 9ea78095e8da8b678d76a1092d232151812e181f
+Author: root <e.k@.wp>
+Date:   Tue Mar 19 21:53:34 2024 +0100
+
+    Revert "usunelam pierwsza linijke z refrenu"
+
+    This reverts commit 8872c4fc5f95731da809e6c7cfb7efdabb05f7a4.
+
+diff --git a/refren-1 b/refren-1
+index 2087395..51adb63 100644
+--- a/refren-1
++++ b/refren-1
+@@ -1,4 +1,4 @@
+-
++'Cause I don't wanna fall in love
+ If you don't wanna try
+ But all that I've been thinking of
+ Is maybe that you might
+
+commit 8872c4fc5f95731da809e6c7cfb7efdabb05f7a4
+Author: root <e.k@.wp>
+Date:   Tue Mar 19 21:50:47 2024 +0100
+
+    usunelam pierwsza linijke z refrenu
+
+diff --git a/refren-1 b/refren-1
+index 51adb63..2087395 100644
+--- a/refren-1
++++ b/refren-1
+
+zwrotka2
+commit 912cde22c17c21796c30785d41ee4c34a24700bb
+Author: root <e.k@.wp>
+Date:   Tue Mar 19 21:45:51 2024 +0100
+
+    Dodalam druga zwrotke i drugi refren
+
+diff --git a/zwrotka-2 b/zwrotka-2
+new file mode 100644
+index 0000000..ae60108
+--- /dev/null
++++ b/zwrotka-2
+@@ -0,0 +1,5 @@
++Just say you love me, just for today
++And don't give me time 'cause that's not the same
++Want to feel burning flames when you say my name
++Want to feel passion flow into my bones
++Like blood through my veins
+
+zwrotka3
+commit 6a85c1e463ab7da1493ff1a6798c089c0121db27
+Author: root <e.k@.wp>
+Date:   Tue Mar 19 21:49:15 2024 +0100
+
+    Dodalam trzecia zwrotke i trzeci refren
+
+diff --git a/zwrotka-3 b/zwrotka-3
+new file mode 100644
+index 0000000..63a187f
+--- /dev/null
++++ b/zwrotka-3
+@@ -0,0 +1,6 @@
++Won't you stay
++Won't you stay
++Slowly, slowly you run for me
++But do you know me at all
++Someone told me love controls everything
++But only if you know
